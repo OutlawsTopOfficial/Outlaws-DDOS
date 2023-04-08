@@ -1,4 +1,6 @@
-Perfectly Work On Termux Without VPS/VDS/CLOUD And Other Shit
+Perfectly Work On Termux Without VPS/VDS/CLOUD And Other Shit!
+
+
 ###############Instalation#################
 
 1. apt update -y 
